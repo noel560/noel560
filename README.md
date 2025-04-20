@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-⚡ I have experience in HTML, CSS, Python, Luau.
-🌱 I'm currently learning C++
+✨ I'm a Developer from Hungary passionate about technology. I'm currently learning C++ and Python, aiming to pursue a career in software/game development or cybersecurity. Always eager to build, break, and learn more!
+💻 I have experience in web development, though it's not the field I want to pursue long-term. I'm much more passionate about building systems, games, or exploring the world of cybersecurity.
 <!--
 **noel560/noel560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
