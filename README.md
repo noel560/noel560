@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-✨ I'm a Developer from Hungary passionate about technology. I'm currently learning C++ and Python, aiming to pursue a career in software/game development or cybersecurity. Always eager to build, break, and learn more!
+✨ I'm a developer from Hungary with a strong curiosity for how things work under the hood. Currently diving deep into C++ and Python, with the goal of building a career in software development, game programming, or cybersecurity.
 
 💻 I have experience in web development, though it's not the field I want to pursue long-term. I'm much more passionate about building systems, games, or exploring the world of cybersecurity.
+
+🌱 I’m on a journey to become a well-rounded developer, and plan to explore Rust, Bash scripting, and C in the near future.
 <!--
 **noel560/noel560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
